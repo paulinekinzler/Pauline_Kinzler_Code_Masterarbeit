@@ -1,0 +1,31 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\nCode1 + 1\n\n[1] 2\n\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Dataset/index.html",
+    "href": "Dataset/index.html",
+    "title": "Datensatz Version 1",
+    "section": "",
+    "text": "Back to top",
+    "crumbs": [
+      "About",
+      "Datensatz Version 1"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Pauline_Kinzler_Code_Masterarbeit",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\nCode1 + 1\n\n[1] 2\n\n\n\n\n\n\n\n Back to top",
+    "crumbs": [
+      "About",
+      "Pauline Kinzler Code Masterarbeit"
+    ]
+  }
+]
